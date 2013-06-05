@@ -20,7 +20,16 @@ Features:
 ToDo/Project State:
 ===================
 
-* TODO: All of the things!
+*x rvmrc
+*x rails new
+* write tests
+* create model & migration
+* create controller & index view/action
+* new & create
+* edit tasks
+* multiple lists
+* reorder tasks
+* finish tasks
 
 Changelog:
 ==========
