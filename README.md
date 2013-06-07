@@ -25,11 +25,11 @@ ToDo/Project State:
 * write tests
 * create model & migration
 * create controller & index view/action
-* new & create
-* edit tasks
+* new & create (both tasks and lists)
+* finish tasks (checkbox)
 * multiple lists
+* edit tasks
 * reorder tasks
-* finish tasks
 
 Changelog:
 ==========
